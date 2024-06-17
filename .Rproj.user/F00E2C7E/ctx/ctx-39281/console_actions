@@ -1,0 +1,18 @@
+{
+    "type": [
+        0,
+        1,
+        2,
+        3,
+        2,
+        2
+    ],
+    "data": [
+        "> ",
+        "source(\"C:/Users/amrit/OneDrive/Desktop/TESLA Stock Price/TESLA_Forecast.R\")",
+        "Error in install.packages : Updating loaded packages\nError in install.packages : Updating loaded packages\nError in install.packages : Updating loaded packages\n\nRestarting R session...\n\n",
+        "WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:\n\nhttps://cran.rstudio.com/bin/windows/Rtools/\nInstalling package into ‘C:/Users/amrit/AppData/Local/R/win-library/4.4’\n(as ‘lib’ is unspecified)\ntrying URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/forecast_8.22.0.zip'\nContent type 'application/zip' length 1912521 bytes (1.8 MB)\ndownloaded 1.8 MB\n\n",
+        "package ‘forecast’ successfully unpacked and MD5 sums checked\nWarning in install.packages :\n  cannot remove prior installation of package ‘forecast’\nWarning in install.packages :\n  problem copying C:\\Users\\amrit\\AppData\\Local\\R\\win-library\\4.4\\00LOCK\\forecast\\libs\\x64\\forecast.dll to C:\\Users\\amrit\\AppData\\Local\\R\\win-library\\4.4\\forecast\\libs\\x64\\forecast.dll: Permission denied\nWarning in install.packages :\n  restored ‘forecast’\n\nThe downloaded binary packages are in\n\tC:\\Users\\amrit\\AppData\\Loc",
+        "al\\Temp\\RtmpgHesgX\\downloaded_packages\n\nRestarting R session...\n\n"
+    ]
+}
